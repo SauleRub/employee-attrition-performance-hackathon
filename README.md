@@ -65,6 +65,43 @@ Younger employees show higher attrition rates — a retention opportunity.
 - **Job satisfaction alone** is not a strong predictor of attrition — overtime and role type play a more significant role.
 
 ---
+## 📊 Key Visualizations
+
+### 🔹 Top 15 Features Predicting Attrition
+![Top Features](images/Top_Features.png)
+
+### 🔹 Attrition by Job Role
+![Attrition by JobRole](images/Attrition_by_JobRole.png)
+
+### 🔹 Attrition by Overtime
+![Attrition by Overtime](images/Attrition_by_Overtime.png)
+
+### 🔹 Monthly Income vs Attrition
+![Monthly Income](images/Monthly_Income_vs_Attrition.png)
+
+### 🔹 Years at Company vs Attrition
+![Years at Company](images/Years_at_Company_vs_Attrition.png)
+
+### 🔹 Job Satisfaction vs Attrition
+![Job Satisfaction](images/Job_Satisfaction_vs_Attrition.png)
+
+### 🔹 Distance from Home vs Attrition
+![Distance from Home](images/Distance_from_Home_vs_Attrition.png)
+
+### 🔹 Age vs Attrition
+![Age vs Attrition](images/Age_vs_Attrition.png)
+
+### 🔹 Confusion Matrix
+![Confusion Matrix](images/Confusion_Matrix.png)
+
+### 🔹 Correlation Heatmap
+![Correlation Matrix](images/Correlation_Matrix(Numeric).png)
+
+### 🔹 Tableau Dashboard
+[🔗 View Dashboard](https://public.tableau.com/views/JobRolevs_AttritionOvertime/JobRolevs_AttritionOvertime)  
+![Dashboard Preview](images/tableau_dashboard.png)
+
+---
 
 ## 💼 Retention Strategy Recommendations
 
@@ -132,7 +169,29 @@ Employee-Attrition-Analysis
 
 ├── dashboard_link.txt        ← Tableau Public dashboard (interactive charts)
 
-└── /images/                  ← Screenshots of Tableau dashboard and Google Colab visualizations
+├── visualizations                           ← Folder containing all key visual charts
+
+│   ├── Top_Features.png                     ← Top 15 predictive features for attrition
+
+│   ├── Attrition_by_JobRole.png             ← Countplot: Attrition by job role
+
+│   ├── Attrition_by_Overtime.png            ← Countplot: Attrition by overtime status
+
+│   ├── Monthly_Income_vs_Attrition.png      ← Boxplot: Income vs Attrition
+
+│   ├── Years_at_Company_vs_Attrition.png    ← Boxplot: Tenure vs Attrition
+
+│   ├── Job_Satisfaction_vs_Attrition.png    ← Boxplot: Satisfaction vs Attrition
+
+│   ├── Distance_from_Home_vs_Attrition.png  ← Boxplot: Commute distance vs Attrition
+
+│   ├── Age_vs_Attrition.png                 ← Boxplot: Age vs Attrition
+
+│   ├── Confusion_Matrix.png                 ← Evaluation of ML model predictions
+
+│   ├── Correlation_Matrix(Numeric).png      ← Heatmap: Variable correlations
+
+│   └── tableau_dashboard.png                ← Snapshot of Tableau dashboard
 
 ---
 
