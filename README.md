@@ -7,21 +7,25 @@ This project analyzes employee attrition and overtime patterns across job roles 
 
 ---
 
-## 🔗 Live Tableau Dashboard
+## 📊 Dashboard Overview
 
-👉 [View Dashboard on Tableau Public](https://public.tableau.com/views/JobRolevs_AttritionOvertime/JobRolevs_AttritionOvertime)
+Two key visualizations were created in Tableau:
 
-This interactive dashboard explores:
-- **Attrition Rate by Job Role**
-- **Overtime Frequency by Job Role**
+1. **Attrition Rate by Job Role**  
+   Understand which job roles have the highest and lowest attrition rates.
 
-Tooltips, annotations, and filters allow for detailed exploration.
+2. **Overtime Percentage by Job Role**  
+   See which job roles are most burdened with overtime work.
+
+🔗 [🌐 View Tableau Dashboard on Tableau Public](https://public.tableau.com/views/JobRolevs_AttritionOvertime/JobRolevs_AttritionOvertime?:language=en-GB&publish=yes)
 
 ---
 
-## 🧹 Data Cleaning & Exploration
+## 📓 Google Colab Notebook
 
-👉 [Open Colab Notebook]([https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/data_cleaning.ipynb](https://colab.research.google.com/drive/1l9Ou2U0eoXnIjPtnUG0DH2c65cXslcm3?usp=sharing)](https://colab.research.google.com/drive/1l9Ou2U0eoXnIjPtnUG0DH2c65cXslcm3?usp=sharing])  
+The full data preprocessing, exploratory analysis, and visual chart creation were done in Python using Google Colab. Includes data cleaning, EDA, and chart exports for Tableau.
+
+🔗 [Open Colab Notebook](https://colab.research.google.com/drive/1l9Ou2U0eoXnIjPtnUG0DH2c65cXslcm3?usp=sharing)
 
 The notebook covers:
 - Dataset overview and preprocessing
