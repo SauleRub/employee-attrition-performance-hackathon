@@ -22,7 +22,6 @@ Tooltips, annotations, and filters allow for detailed exploration.
 ## 🧹 Data Cleaning & Exploration
 
 👉 [Open Colab Notebook]([https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/data_cleaning.ipynb](https://colab.research.google.com/drive/1l9Ou2U0eoXnIjPtnUG0DH2c65cXslcm3?usp=sharing))  
-_Replace with your actual GitHub link once uploaded._
 
 The notebook covers:
 - Dataset overview and preprocessing
@@ -37,6 +36,52 @@ The notebook covers:
 - **Sales Representatives** have the **highest attrition rate (~39.8%)**, despite having average job satisfaction (~2.73).
 - **Overtime** is strongly correlated with higher attrition, especially in **Sales** and **R&D** roles.
 - **Job satisfaction alone** is not a strong predictor of attrition — overtime and role type play a more significant role.
+
+---
+
+## 💼 Retention Strategy Recommendations
+
+Based on the patterns uncovered, the following targeted strategies are recommended to reduce attrition:
+
+---
+
+### 1. 🔁 Reduce Overtime in High-Risk Roles
+**What we found**: Roles with the highest attrition — especially Sales and Research — also show the highest overtime rates.  
+**Why it matters**: Overtime is a strong stressor and linked to employee burnout and eventual resignation.  
+**Recommendation**:
+- Monitor and limit overtime hours for these roles
+- Reassess staffing levels and automate routine tasks
+- Schedule mandatory rest windows or rotational shift policies
+
+---
+
+### 2. 🌱 Support Career Development in Sales
+**What we found**: Sales Reps have the highest attrition despite decent job satisfaction scores.  
+**Why it matters**: Lack of upward mobility or unclear growth paths may drive people to leave even if they’re content day-to-day.  
+**Recommendation**:
+- Introduce mentorship and coaching programs
+- Define clearer promotion and bonus criteria
+- Create internal career tracks for Sales talent
+
+---
+
+### 3. 🧘 Enhance Work-Life Balance Monitoring
+**What we found**: Work-Life Balance scores have moderate influence on attrition, especially in mid-tier roles.  
+**Why it matters**: Poor balance reduces retention and engagement, especially in roles with long commutes or frequent travel.  
+**Recommendation**:
+- Launch quarterly satisfaction surveys and HR check-ins
+- Offer flexible work arrangements (e.g. hybrid, compressed weeks)
+- Track satisfaction scores and intervene early if trends decline
+
+---
+
+### 4. 🤖 Use Predictive Indicators for Early Intervention
+**What we found**: Our Random Forest model showed features like Overtime, Monthly Income, and Distance from Home were top predictors.  
+**Why it matters**: HR can proactively flag at-risk employees before they leave.  
+**Recommendation**:
+- Build a scoring system based on key predictors
+- Set up alerts or HR workflows to review high-risk employees
+- Offer personalized retention plans or benefits
 
 ---
 
@@ -62,6 +107,4 @@ Employee-Attrition-Analysis/
 ## 👩‍💻 Author
 
 **Saule Rubinshtein**  
-Aspiring Data Analyst | Passionate about data storytelling  
-📍 Israel  
 📬 Contact: www.linkedin.com/in/saule-ratautaite
