@@ -154,17 +154,6 @@ Employee-Attrition-Analysis
 ├── dashboard_link.txt        ← Tableau Public dashboard (interactive charts)
 
 ├── visualizations/                          ← Folder containing all key visual charts
-│   ├── Top_Features.png                     ← Top 15 predictive features for attrition
-│   ├── Attrition_by_JobRole.png             ← Countplot: Attrition by job role
-│   ├── Attrition_by_Overtime.png            ← Countplot: Attrition by overtime status
-│   ├── Monthly_Income_vs_Attrition.png      ← Boxplot: Income vs Attrition
-│   ├── Years_at_Company_vs_Attrition.png    ← Boxplot: Tenure vs Attrition
-│   ├── Job_Satisfaction_vs_Attrition.png    ← Boxplot: Satisfaction vs Attrition
-│   ├── Distance_from_Home_vs_Attrition.png  ← Boxplot: Commute distance vs Attrition
-│   ├── Age_vs_Attrition.png                 ← Boxplot: Age vs Attrition
-│   ├── Confusion_Matrix.png                 ← Evaluation of ML model predictions
-│   ├── Correlation_Matrix(Numeric).png      ← Heatmap: Variable correlations
-│   └── tableau_dashboard.png                ← Snapshot of Tableau dashboard
 
 ---
 
