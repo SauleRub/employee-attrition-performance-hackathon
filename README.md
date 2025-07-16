@@ -98,9 +98,10 @@ Based on the patterns uncovered, the following targeted strategies are recommend
 ## 📁 Project Structure
 
 Employee-Attrition-Analysis/
-├── data_cleaning.ipynb        ← Google Colab notebook
-├── README.md                  ← This file
-└── Tableau Dashboard (link)   ← Hosted on Tableau Public
+├── data_cleaning.ipynb       ← [Google Colab notebook for data cleaning & exploration](https://colab.research.google.com/drive/1l9Ou2U0eoXnIjPtnUG0DH2c65cXslcm3?usp=sharing)
+├── README.md                 ← This file (project overview, insights & strategy)
+├── dashboard_link.txt        ← (https://public.tableau.com/app/profile/saule.rubinshtein/viz/JobRolevs_AttritionOvertime/JobRolevs_AttritionOvertime)
+└── /images/                  ← Screenshots of Tableau dashboard and Google Colab visualizations
 
 ---
 
