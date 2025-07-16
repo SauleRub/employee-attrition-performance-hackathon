@@ -103,11 +103,11 @@ Based on the patterns uncovered, the following targeted strategies are recommend
 
 Employee-Attrition-Analysis
 
-├── data_cleaning.ipynb       ← (https://colab.research.google.com/drive/1l9Ou2U0eoXnIjPtnUG0DH2c65cXslcm3?usp=sharing)
+├── data_cleaning.ipynb       ← Google Colab notebook (EDA, preprocessing)
 
 ├── README.md                 ← This file (project overview, insights & strategy)
 
-├── dashboard_link.txt        ← (https://public.tableau.com/app/profile/saule.rubinshtein/viz/JobRolevs_AttritionOvertime/JobRolevs_AttritionOvertime)
+├── dashboard_link.txt        ← Tableau Public dashboard (interactive charts)
 
 └── /images/                  ← Screenshots of Tableau dashboard and Google Colab visualizations
 
