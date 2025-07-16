@@ -34,6 +34,29 @@ The notebook covers:
 - Exploratory plots using Seaborn & Matplotlib
 
 ---
+## 📊 Key Exploratory Charts from Google Colab
+
+#### 🔁 Attrition by Overtime Status
+Employees who work overtime are significantly more likely to leave the company.  
+![Overtime Attrition](images/overtime_attrition.png)
+
+#### 💼 Attrition by Job Role
+Attrition rates are highest among Sales Executives and Lab Technicians.  
+![Job Role Attrition](images/jobrole_attrition.png)
+
+#### 😊 Job Satisfaction vs Attrition
+Employees who left generally report lower job satisfaction.  
+![Satisfaction Attrition](images/job_satisfaction_attrition.png)
+
+#### 🛣️ Distance from Home vs Attrition
+Those who left tend to live slightly farther from work.  
+![Distance Attrition](images/distance_attrition.png)
+
+#### 📊 Age Distribution by Attrition
+Younger employees show higher attrition rates — a retention opportunity.  
+![Age Attrition](images/age_attrition.png)
+
+---
 
 ## 🔍 Key Insights
 
