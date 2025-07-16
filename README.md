@@ -97,8 +97,9 @@ Based on the patterns uncovered, the following targeted strategies are recommend
 
 ## 📁 Project Structure
 
-Employee-Attrition-Analysis/
-├── data_cleaning.ipynb       ← [Google Colab notebook for data cleaning & exploration](https://colab.research.google.com/drive/1l9Ou2U0eoXnIjPtnUG0DH2c65cXslcm3?usp=sharing)
+Employee-Attrition-Analysis
+
+├── data_cleaning.ipynb       ← (https://colab.research.google.com/drive/1l9Ou2U0eoXnIjPtnUG0DH2c65cXslcm3?usp=sharing)
 
 ├── README.md                 ← This file (project overview, insights & strategy)
 
