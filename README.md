@@ -1,5 +1,6 @@
 # 📊 Employee Attrition & Overtime Analysis
 🔗 [🌐 View Project Demo on Loom](https://www.loom.com/share/ca702bac7bda429b971e80f5ada47df4?sid=2769f663-7f12-4b02-8e60-355cac49fb69)
+
 **📌 Summary:**
 This solo hackathon project explores the key factors influencing employee attrition using HR data from IBM. The goal was to identify actionable trends, analyze overtime and job roles, and present findings through interactive Tableau dashboards and Python-based visualizations. Through EDA, modeling, and insight generation, we aimed to support HR in understanding and reducing employee turnover.
 
